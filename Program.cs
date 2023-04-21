@@ -32,6 +32,7 @@ namespace JJJ9
     }
     // partial 의 접근지정자가 다를 경우 따로 작동하는가?
 
+    // internal : 같은 어셈블리 내에서만 사용할 수 있다. 시작점을 제한하는 용도
     internal class Program
     {
         // 상수 : 변하지 않는 수 (통상적으로 모두 대문자로 표기한다.)
